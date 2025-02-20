@@ -1,0 +1,25 @@
+n_input:
+  label: "n_input"
+  value: 44
+dropout:
+  label: dropout
+  value: 0.05
+learning_rate:
+  label: learning_rate
+  value: 0.0003
+n_hidden:
+  label: n_hidden
+  value: 4
+n_neurons_0:
+  label: n_neurons_0
+  value: 128
+n_neurons_1:
+  label: n_neurons_1
+  value: 128
+n_neurons_2:
+  label: n_neurons_2
+  value: 128
+n_neurons_3:
+  label: n_neurons_3
+  value: 128
+
