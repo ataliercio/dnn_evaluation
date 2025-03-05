@@ -1,0 +1,104 @@
+###########################
+#Specific to VH
+###########################
+
+###########################
+#Frequent Options
+###########################
+# lead_mvaID:
+# sublead_mvaID:
+# dijet_mass:
+# chi_t0:
+# chi_t1:
+# sigma_m_over_m_corr_smeared_decorr:
+
+
+###########################
+#Nonnormalized nominal pTs
+###########################
+# HHbbggCandidate_pt:
+
+# pt:
+# lead_pt:
+# sublead_pt:
+
+# lead_bjet_pt:
+# sublead_bjet_pt:
+# dijet_pt:
+
+# puppiMET_pt:
+
+
+###########################
+#Normalized nominal pTs
+###########################
+HHbbggCandidate_ptoverMggjj:
+
+gg_pT_OverHHcand_mass:
+pholead_PtOverM:
+phosublead_PtOverM:
+
+# jj_pT_OverHHcand_mass:
+# FirstJet_PtOverM:
+# SecondJet_PtOverM:
+
+
+###########################
+#Nonnormalized PNet pTs
+###########################
+# lead_bjet_pt_PNet_all:
+# sublead_bjet_pt_PNet_all:
+# dijet_pt_PNet_all:
+
+MET_PNet_all:
+
+###########################
+#Normalized PNet pTs
+###########################
+# mjj_regressed:
+lead_bjet_ptOverMjj_PNet_all:
+sublead_bjet_ptOverMjj_PNet_all:
+dijet_pt_PNet_all_OverHHcand_mass:
+# HHbbggCandidate_ptoverMggjjReg:
+
+
+###########################
+#General Variables
+###########################
+HHbbggCandidate_eta:
+HHbbggCandidate_phi:
+
+CosThetaStar_CS:
+CosThetaStar_gg:
+CosThetaStar_jj:
+
+DeltaR_j1g1:
+DeltaR_j2g1:
+DeltaR_j1g2:
+DeltaR_j2g2:
+DeltaR_jg_min:
+DeltaPhi_j1MET:
+DeltaPhi_j2MET:
+
+eta:
+lead_eta:
+sublead_eta:
+lead_hoe:
+sublead_hoe:
+lead_photon_EnergyErrOverE:
+sublead_photon_EnergyErrOverE:
+sigma_m_over_m_smeared_decorr:
+
+dijet_eta:
+lead_bjet_eta:
+sublead_bjet_eta:
+lead_bjet_btagPNetB:
+sublead_bjet_btagPNetB:
+n_fatjets:
+n_leptons:
+n_jets:
+nBTight:
+nBMedium:
+nBLoose:
+
+puppiMET_sumEt:
